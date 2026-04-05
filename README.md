@@ -1,4 +1,4 @@
-# Fashion & Style - Web Platform 
+# Fashion & Style 
 
 ## 💻 Overview
 A sophisticated digital ecosystem dedicated to the fashion world, designed to harmonize sartorial passion with modern web technology. This platform serves as an immersive visual guide that explores current trends while empowering users to define their personal aesthetic through an intuitive and elegant interface.
@@ -35,8 +35,10 @@ The project follows a modular architecture typical of modern static web applicat
 * **Assets**: Centralized organization for imagery, typography, and stylesheets (CSS).
 
 <p align="center">
-  <img width="45%" alt="Preview 1" src="https://github.com/user-attachments/assets/0495559b-4ae4-48af-87a0-543dbd865986" />
-  <img width="45%" alt="Preview 2" src="https://github.com/user-attachments/assets/520f839a-f489-4b2c-b2f8-c66b974df93f" />
+  <img width="24%" alt="Home Page" src="https://github.com/user-attachments/assets/c6e9b350-e409-40cd-b66d-6022ec41cf61" />
+  <img width="24%" alt="Fashion Trends" src="https://github.com/user-attachments/assets/2e8a18b6-909b-4f72-9ab8-9907d29c2f88" />
+  <img width="24%" alt="Style Guide" src="https://github.com/user-attachments/assets/e50e2714-1394-4b9b-9b55-3f63afbfaa9e" />
+  <img width="24%" alt="Contact Milan" src="https://github.com/user-attachments/assets/b880f42e-ff6e-40fb-a87c-d64ce65bdc17" />
 </p>
 
 ---
