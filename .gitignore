@@ -1,0 +1,12 @@
+# Fișiere specifice Mac (Gunoi de sistem)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Foldere de sistem
+Thumbs.db
+Desktop.ini
+
+# Dacă vei folosi vreodată librării externe sau secrete
+node_modules/
+.env
