@@ -43,24 +43,5 @@ The project follows a modular architecture typical of modern static web applicat
 
 ---
 
-## 🛠️ Getting Started
-
-Follow these steps to run the project in your local environment:
-
-```bash
-# 1. Clone the repository
-git clone [https://github.com/patrrrrrrricia/fashion-style.git](https://github.com/patrrrrrrricia/fashion-style.git)
-
-# 2. Access the project directory
-cd fashion-style
-
-# 3. Execution
-# Since this is a static web project, simply open "index.html" 
-# in any modern web browser (Chrome, Edge, Firefox).
-
-# Note: An active internet connection is required for the 
-# Google Maps functionality to load correctly.
-```
-
 © 2024 Fashion and Style | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
 
