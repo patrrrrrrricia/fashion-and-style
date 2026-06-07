@@ -1,47 +1,48 @@
-# Fashion & Style 
+<div align="center">
+
+# 𝓟𝓪𝓽𝓻𝓲𝓬𝓲𝓪 𝓜𝓲𝓻𝓪𝓫𝓮𝓵𝓪 𝓛𝓮𝓸𝓷𝓽𝓮 | 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-black?style=for-the-badge&logo=pink&logoColor=%23FF69B4&labelColor=black)](https://patrrrrrrricia.github.io/cv/)
+
+---
 
 ## 💻 Overview
-A sophisticated digital ecosystem dedicated to the fashion world, designed to harmonize sartorial passion with modern web technology. This platform serves as an immersive visual guide that explores current trends while empowering users to define their personal aesthetic through an intuitive and elegant interface.
+A curated digital showcase bridging the intersection of **Software Engineering** and **UI/UX Design**. Built with a focus on clean, scalable architecture and modern, intuitive interfaces.
 
 ---
 
 ## 🤍 Tech Stack
-* **Frontend:** HTML5, CSS3
-* **Frameworks & Libs:** Mobirise Framework (Bootstrap-based), Google Maps API
-* **Social Integration:** Socicon Icons
-* **Design:** Responsive Web Design (RWD)
+* **Frontend:** HTML5, CSS3, Modern JavaScript
+* **Design & Prototyping:** Figma, Dribbble Curation
+* **Backend Concepts:** Java, Spring Boot, Data Structures
 
-![HTML5](https://img.shields.io/badge/HTML5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23333333.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Google Maps](https://img.shields.io/badge/Google_Maps-%23FF69B4.svg?style=for-the-badge&logo=google-maps&logoColor=white) ![UI/UX](https://img.shields.io/badge/Design-Responsive-%23FF69B4.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-%23333333.svg?style=for-the-badge&logo=html5&logoColor=%23FF69B4) 
+![CSS3](https://img.shields.io/badge/CSS3-%23333333.svg?style=for-the-badge&logo=css3&logoColor=%23FF69B4) 
+![Java](https://img.shields.io/badge/Java-%23333333.svg?style=for-the-badge&logo=java&logoColor=%23FF69B4)
 
 ---
 
-## 🎀 Core Functionality
-* **Trend Forecasting:** Dedicated sections for seasonal highlights, featuring essential pieces like oversized silhouettes and vibrant color palettes.
-* **Style Consulting:** Curated articles on minimalism vs. eclectic styles and fundamental fashion rules for wardrobe building.
-* **Interactive FAQ:** A specialized module addressing common styling concerns and wardrobe management.
-* **Advanced Components:** * Google Maps integration for physical location mapping.
-    * Validated contact forms for user inquiries.
-    * Fluid navigation menus and seamless social media sharing.
+## 🎀 Core Competencies
+* **Backend Engineering:** Developing robust cinematic and management systems with Spring Boot.
+* **UI/UX Craft:** Designing aesthetic digital experiences that prioritize user flow and elegance.
+* **Problem Solving:** Algorithmic thinking applied to hierarchical task and workflow management.
 
 ---
 
 ## 📂 Project Structure
-The project follows a modular architecture typical of modern static web applications:
-* **Index / Home**: The central hub and general presentation of the platform.
-* **Trends / Fashion**: Specific modules focused on industry news and visual inspiration.
-* **Personal Style**: Educational resources for aesthetic development.
-* **Assets**: Centralized organization for imagery, typography, and stylesheets (CSS).
-
-<p align="center">
-  <img width="24%" alt="Home Page" src="https://github.com/user-attachments/assets/c6e9b350-e409-40cd-b66d-6022ec41cf61" />
-  <img width="24%" alt="Fashion Trends" src="https://github.com/user-attachments/assets/2e8a18b6-909b-4f72-9ab8-9907d29c2f88" />
-  <img width="24%" alt="Style Guide" src="https://github.com/user-attachments/assets/e50e2714-1394-4b9b-9b55-3f63afbfaa9e" />
-  <img width="24%" alt="Contact Milan" src="https://github.com/user-attachments/assets/b880f42e-ff6e-40fb-a87c-d64ce65bdc17" />
-</p>
+The project follows a modular architecture for clean maintainability:
+* `index.html`: The structural backbone of the portfolio.
+* `css/style.css`: The "Couture" layer with custom glassmorphism and animations.
+* `js/script.js`: Dynamic project population engine.
+* `assets/`: Visual assets, logo, and CV documentation.
 
 ---
 
-© 2024 Fashion and Style | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
+## 🚀 Get in Touch
+* [**LinkedIn**](https://www.linkedin.com/in/patriciamirabelaleonte/)
+* [**Dribbble**](https://dribbble.com/patrrrrrrricia)
 
+---
+
+*© 2026 Developed by **Leonte Patricia-Mirabela***
+</div>
