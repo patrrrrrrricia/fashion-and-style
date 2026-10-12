@@ -41,4 +41,6 @@ The project follows a modular architecture typical of modern static web applicat
   <img width="24%" alt="Contact Milan" src="https://github.com/user-attachments/assets/b880f42e-ff6e-40fb-a87c-d64ce65bdc17" />
 </p>
 
+---
+
 © 2024 Fashion and Style | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/)
